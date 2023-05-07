@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Skills>
+    <Skill>Writing Bash commands and simple scripts</Skill>
+    <Skill>Working with GitHub and Git</Skill>
+    <Skill>Understanding the most popular test design techniques</Skill>
+    <Skill>Understanding client-server architecture</Skill>
+    <Skill>API testing with Postman</Skill>
+    <Skill>Writing test documentation</Skill>
+    <Skill>Web and mobile testing with devtools</Skill>
+    <Skill>iOS/Android traffic monitoring with Charles and Fiddler</Skill>
+    <Skill>SQL basics</Skill>
+    <Skill>JMeter load testing basics</Skill>
+    <Skill>Developing simple mobile apps with Xcode/Android Studio</Skill>
+</Skills>
